@@ -1,2 +1,0 @@
-# CRUD
-Created with CodeSandbox
